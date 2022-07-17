@@ -10,6 +10,7 @@ _Since 2022-07-10..._
 
 ## 목차
 
+* [Algorithms](#Algorithms)
 * [Markdown](#Markdown)
 * [Web](#Web)
 
