@@ -13,6 +13,7 @@ _Since 2022-07-10..._
 * [Algorithms](#Algorithms)
 * [Markdown](#Markdown)
 * [Web](#Web)
+* [WIL(공부일지)](#WIL)
 
 ---
 
@@ -29,3 +30,7 @@ _Since 2022-07-10..._
 ### Algorithms
 
 * [최대공약수(GCD)](Algorithms/GCD.md)
+
+### WIL (공부일지)
+
+* [1주차 - 팀 프로젝트와 자바](WIL/220717_%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%9E%90%EB%B0%94.md)
