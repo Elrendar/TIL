@@ -23,9 +23,9 @@ _Since 2022-07-10..._
 
 ### Web
 
-* [JWT 로그인](JWY.md)
-* [API](API.md)
+* [JWT 로그인](Web/JWT.md)
+* [API](Web/API.md)
 
 ### Algorithms
 
-* [최대공약수(GCD)](GCD.md)
+* [최대공약수(GCD)](Algorithms/GCD.md)
