@@ -1,4 +1,4 @@
-# PyJWT를 사용해서 로그인 세션 유지하기
+# PyJWT를 사용해서 JWT 생성 및 로그인 세션 유지하기
 
 `Javascript: sign_in()`
 
