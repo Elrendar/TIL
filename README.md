@@ -11,11 +11,22 @@ _Since 2022-07-10..._
 ## 목차
 
 * [Algorithms](#Algorithms)
+* [Java](#Java)
 * [Markdown](#Markdown)
 * [Web](#Web)
 * [WIL(공부일지)](#WIL)
 
 ---
+
+### Algorithms
+
+* [최대공약수(GCD)](Algorithms/GCD.md)
+
+### Java
+
+* [비트연산자(BitwiseOperators)](Java/BitwiseOperators.md)
+* [자바 가상 머신(Java Virtual Machine)](Java/JVM.md)
+* [객체지향적 프로그래밍(OOP)](Java/OOP.md)
 
 ### Markdown
 
@@ -27,10 +38,7 @@ _Since 2022-07-10..._
 * [JWT 로그인](Web/JWT.md)
 * [API](Web/API.md)
 
-### Algorithms
-
-* [최대공약수(GCD)](Algorithms/GCD.md)
-
 ### WIL (공부일지)
 
 * [1주차 - 팀 프로젝트와 자바](WIL/220717_%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%9E%90%EB%B0%94.md)
+* [2주차 - 알고리즘과 자바](WIL/220724_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%9E%90%EB%B0%94.md)
