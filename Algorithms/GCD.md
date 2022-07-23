@@ -1,5 +1,7 @@
 # 최대공약수 Greatest Common Divisor
 
+[목록으로 돌아가기](README.md)
+
 두 수의 최대공약수를 구하는 방법으로 유클리드 호제법을 사용해봤다.
 
 `Java`
