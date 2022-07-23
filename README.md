@@ -33,6 +33,10 @@ _Since 2022-07-10..._
 * [README.md 작성하기](README.md)
 * [Markdown 문법 정리](Markdown/BasicMarkdown.md)
 
+### Spring
+
+* [Lombok](Spring/Lombok.md)
+
 ### Web
 
 * [JWT 로그인](Web/JWT.md)
@@ -41,4 +45,4 @@ _Since 2022-07-10..._
 ### WIL (공부일지)
 
 * [1주차 - 팀 프로젝트와 자바](WIL/220717_%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%9E%90%EB%B0%94.md)
-* [2주차 - 알고리즘과 자바](WIL/220724_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%9E%90%EB%B0%94.md)
+* [2주차 - 알고리즘과 자바 그리고 스프링](WIL/220724_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%9E%90%EB%B0%94-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8A%A4%ED%94%84%EB%A7%81.md)
