@@ -10,6 +10,20 @@
 
 ex) 1시간마다 새로 고침, 등
 
+## 사용조건
+
+`@EnableScheduling` 어노테이션이 있어야 스케줄러가 작동한다.
+
+```Java
+@EnableScheduling // @Scheduled를 사용하려면 필수!!!
+@SpringBootApplication // 스프링 부트임을 선언합니다.
+public class Application {
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class, args);
+    }
+}
+```
+
 ## 속성 (Attribute)
 
 * ### cron
@@ -58,3 +72,7 @@ private void updatePrice(){}
 fixedDelay는 호출한 메서드의 작업이 끝난 뒤부터 시간을 재지만, fixedRate는 호출한 메서드와 무관하게 일정 시간마다 호출을 반복한다.
 
 ![fixedDelay-vs-fixedRate](../../images/fixedDelay-vs-fixedRate.png)
+
+참고한 곳
+
+[@Scheduled 사용법, 스케줄러 커스터마이징을 통한 제어(+스케줄러에 등록한 작업 중지하는 방법, 배치 효과, 정확한 주기 작업 사용법)](https://jeong-pro.tistory.com/186)
