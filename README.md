@@ -35,7 +35,13 @@ _Since 2022-07-10..._
 
 ### Spring
 
-* [Lombok](Spring/Lombok.md)
+* #### Annotations
+
+  * [Component](Spring/Annotations/Component.md)
+
+* #### Libraries
+
+  * [Lombok](Spring/Libraries/Lombok.md)
 
 ### Web
 
