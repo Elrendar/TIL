@@ -38,6 +38,7 @@ _Since 2022-07-10..._
 * #### Annotations
 
   * [Component](Spring/Annotations/Component.md)
+  * [Scheduled](Spring/Annotations/Scheduled.md)
 
 * #### Libraries
 
