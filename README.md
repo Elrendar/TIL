@@ -10,6 +10,7 @@ _Since 2022-07-10..._
 
 ## 목차
 
+* [Errors](#Errors)
 * [Algorithms](#Algorithms)
 * [Java](#Java)
 * [Markdown](#Markdown)
@@ -18,6 +19,12 @@ _Since 2022-07-10..._
 
 ---
 
+### Errors
+
+* #### IntelliJ
+
+  * [cannot resolve symbol](Errors/IntelliJ/cannot-resolve-symbol.md)
+  
 ### Algorithms
 
 * [최대공약수(GCD)](Algorithms/GCD.md)
