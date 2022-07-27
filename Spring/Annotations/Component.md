@@ -1,6 +1,6 @@
 # @Component
 
-[목록으로 돌아가기](../../README.md)
+[목록으로 돌아가기](/README.md)
 
 ## 개요
 
