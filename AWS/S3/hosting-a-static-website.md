@@ -10,7 +10,7 @@ S3는 일종의 클라우드 저장공간이지만, html파일을 업로드 해�
 
 먼저 버킷을 생성해야 한다. 그 후 버킷 속성에서 정적 웹 사이트 호스팅 기능을 활성화 한다.
 
-![web-hosting](images/s3-static-web-hosting.png)
+![web-hosting](/images/s3-static-web-hosting.png)
 
 이 때 인덱스 문서 이름을 입력해야 한다. (일반적으로 index.html이다.)
 

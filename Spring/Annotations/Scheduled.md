@@ -71,7 +71,7 @@ private void updatePrice(){}
 
 fixedDelay는 호출한 메서드의 작업이 끝난 뒤부터 시간을 재지만, fixedRate는 호출한 메서드와 무관하게 일정 시간마다 호출을 반복한다.
 
-![fixedDelay-vs-fixedRate](../../images/fixedDelay-vs-fixedRate.png)
+![fixedDelay-vs-fixedRate](/images/fixedDelay-vs-fixedRate.png)
 
 참고한 곳
 

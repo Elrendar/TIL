@@ -132,7 +132,7 @@ concatenate
 
 이렇게 실행된 프로그램은 터미널 세션이 종료되어도 백그라운드에서 계속 돌아간다.
 
-![nohup](images/nohup.png)
+![nohup](/images/nohup.png)
 
 이것을 종료하려면 먼저 `ps` 명령어로 `PID`를 식별한 다음, `kill` 명령어로 해당 프로세스에 종료 시그널을 보내야 한다.
 
@@ -140,7 +140,7 @@ concatenate
 
 현재 `shell`에서 실행중인 프로세스를 출력한다.
 
-![ps](images/ps.png)
+![ps](/images/ps.png)
 
 * #### `ps -ef`
 
@@ -148,7 +148,7 @@ concatenate
 
 여기서 뒤에 `| grep {regex}`를 사용하면 특정 프로세스를 찾아낼 수 있다.
 
-![ps-ef](images/ps-ef.png)
+![ps-ef](/images/ps-ef.png)
 
 * ### `kill {옵션명} {PID}`
 
@@ -156,7 +156,7 @@ concatenate
 
 `nohup`으로 실행한 프로세스를 종료할 때 이 명령어가 필요하다.
 
-![kill-pid](images/kill-pid.png)
+![kill-pid](/images/kill-pid.png)
 
 첫 번째 `ps` 명령어로 현재 실행 중인 자바 프로세스를 찾아냈고, `kill` 명령어로 종료 시그널을 보냈다.
 
