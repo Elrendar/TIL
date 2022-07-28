@@ -59,7 +59,7 @@ _Since 2022-07-10..._
 
 ### Ubuntu
 
-* [자주 쓰는 터미널 명령어 모음](Ubuntu/BasicUbuntuCommands.md)
+* [자주 쓰는 우분투 명령어 모음](Ubuntu/BasicUbuntuCommands.md)
 
 ### Web
 
