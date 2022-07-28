@@ -12,6 +12,7 @@ _Since 2022-07-10..._
 
 * [Errors](#Errors)
 * [Algorithms](#Algorithms)
+* [AWS](#AWS)
 * [Docker](#Docker)
 * [Java](#Java)
 * [Markdown](#Markdown)
@@ -30,6 +31,10 @@ _Since 2022-07-10..._
 ### Algorithms
 
 * [최대공약수(GCD)](Algorithms/GCD.md)
+
+### AWS
+
+* [AWS S3 정적 웹 사이트 호스팅](AWS/S3/hosting-a-static-website.md)
 
 ### Docker
 
