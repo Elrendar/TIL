@@ -12,9 +12,13 @@
 
     도커 리포지토리로부터 image를 가져온다.
 
-* ### `docker run -it -d {image name}`
+* ### `docker run {옵션명} {image name}`
 
     도커 이미지로부터 컨테이너를 생성한다.
+
+    예시)
+
+    `docker run -dp 8080:8080 spring-hw2`
 
 * ### `docker build {path to dockerfile}`
 
