@@ -15,6 +15,7 @@ _Since 2022-07-10..._
 * [Docker](#Docker)
 * [Java](#Java)
 * [Markdown](#Markdown)
+* [Ubuntu](#Ubuntu)
 * [Web](#Web)
 * [WIL(공부일지)](#WIL)
 
@@ -55,6 +56,10 @@ _Since 2022-07-10..._
 * #### Libraries
 
   * [Lombok](Spring/Libraries/Lombok.md)
+
+### Ubuntu
+
+* [자주 쓰는 터미널 명령어 모음](Ubuntu/BasicUbuntuCommands.md)
 
 ### Web
 
