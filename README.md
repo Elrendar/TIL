@@ -10,7 +10,7 @@ _Since 2022-07-10..._
 
 ## 목차
 
-* [Errors](#Errors)
+* [Troubleshooting](#Troubleshooting)
 * [Algorithms](#Algorithms)
 * [AWS](#AWS)
 * [Docker](#Docker)
@@ -22,11 +22,19 @@ _Since 2022-07-10..._
 
 ---
 
-### Errors
+### Troubleshooting
+
+* #### AWS
+
+  * [regional-data-transfer](0_Troubleshooting/AWS/regional-data-transfer.md)
 
 * #### IntelliJ
 
-  * [cannot resolve symbol](Errors/IntelliJ/cannot-resolve-symbol.md)
+  * [cannot resolve symbol](0_Troubleshooting/IntelliJ/cannot-resolve-symbol.md)
+
+* #### Firefox
+
+  * [파이어폭스 메모리 과다 점유](0_Troubleshooting/Firefox/firefox-uses-too-much-memory.md)
   
 ### Algorithms
 
