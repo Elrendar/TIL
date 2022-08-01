@@ -16,6 +16,7 @@ _Since 2022-07-10..._
 * [Docker](#Docker)
 * [Java](#Java)
 * [Markdown](#Markdown)
+* [Spring](#Spring)
 * [Ubuntu](#Ubuntu)
 * [Web](#Web)
 * [Weekly I Learned](#WIL-공부일지)
@@ -40,7 +41,7 @@ _Since 2022-07-10..._
 
 * [최대공약수(GCD)](Algorithms/GCD.md)
 
-### AWS
+### Amazon Web Services
 
 * [AWS S3 정적 웹 사이트 호스팅](AWS/S3/hosting-a-static-website.md)
 
@@ -70,6 +71,8 @@ _Since 2022-07-10..._
 * #### Libraries
 
   * [Lombok](Spring/Libraries/Lombok.md)
+
+* [MVC 패턴](Spring/MVCPattern.md)
 
 ### Ubuntu
 
