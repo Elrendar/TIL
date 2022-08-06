@@ -71,6 +71,7 @@ _Since 2022-07-10..._
 * #### Libraries
 
   * [Lombok](Spring/Libraries/Lombok.md)
+  * [Jackson](Spring/Libraries/Jackson.md)
 
 * [MVC 패턴](Spring/MVCPattern.md)
 * [Redirect](Spring/Redirect.md)
