@@ -71,7 +71,10 @@ _Since 2022-07-10..._
 * #### Libraries
 
   * [Lombok](Spring/Libraries/Lombok.md)
-  * [Jackson](Spring/Libraries/Jackson.md)
+  * ##### Jackson
+  
+    * [Jackson](Spring/Libraries/Jackson/Jackson.md)
+    * [불변객체에 json파일 매핑하기](Spring/Libraries/Jackson/parse-json-to-immutable.md)
 
 * [MVC 패턴](Spring/MVCPattern.md)
 * [Redirect](Spring/Redirect.md)
