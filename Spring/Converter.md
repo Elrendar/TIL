@@ -17,15 +17,15 @@
 Failed to convert value of type '`java.lang.String`' to required type '`com.innovation.myblog.models.TargetType`'; nested exception is `org.springframework.core.convert`.
 
 `ConversionFailedException`:
-Failed to convert from type [`java.lang.String`] to type [`@org.springframework.web.bind.annotation.PathVariable com.innovation.myblog.models.TargetType`] for value '<span style="color: red">post</span>'; nested exception is java.lang.IllegalArgumentException: No enum constant com.innovation.myblog.models.TargetType.post
+Failed to convert from type [`java.lang.String`] to type [`@org.springframework.web.bind.annotation.PathVariable com.innovation.myblog.models.TargetType`] for value '`post`'; nested exception is java.lang.IllegalArgumentException: No enum constant com.innovation.myblog.models.TargetType.post
 
 ## 문제 탐색
 
 사실 원인은 간단했다. 
 
-`Request`로 받은 `@PathVariable`은 위에 표시된 '<span style="color: red">post</span>'였다.
+`Request`로 받은 `@PathVariable`은 위에 표시된 '`post`'였다.
 
-###### ***api주소: 로컬/api/likes/<span style="color: red">post</span>/1?param=like***
+###### ***api주소: 로컬/api/likes/post/1?param=like***
 
 그리고 `@PathVariable`로 받은 Enum 타입, `TargetType`은 이렇게 생겼다.
 
