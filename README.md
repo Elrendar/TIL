@@ -71,10 +71,11 @@ _Since 2022-07-10..._
 * #### Libraries
 
   * [Lombok](Spring/Libraries/Lombok.md)
-  * ##### Jackson
+
+* ##### Jackson
   
-    * [Jackson](Spring/Libraries/Jackson/Jackson.md)
-    * [불변객체에 json파일 매핑하기](Spring/Libraries/Jackson/parse-json-to-immutable.md)
+  * [Jackson](Spring/Libraries/Jackson/Jackson.md)
+  * [불변객체에 json파일 매핑하기](Spring/Libraries/Jackson/parse-json-to-immutable.md)
 
 * [MVC 패턴](Spring/MVCPattern.md)
 * [Redirect](Spring/Redirect.md)
@@ -94,3 +95,4 @@ _Since 2022-07-10..._
 * [1주차 - 팀 프로젝트와 자바](WIL/220717_%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%9E%90%EB%B0%94.md)
 * [2주차 - 알고리즘과 자바 그리고 스프링](WIL/220724_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%9E%90%EB%B0%94-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8A%A4%ED%94%84%EB%A7%81.md)
 * [3주차 - More Spring](WIL/220731_More-Spring.md)
+* [4주차 - 스프링 팀 프로젝트](WIL/220807_스프링-시큐리티.md)
