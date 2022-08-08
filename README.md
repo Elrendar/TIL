@@ -68,6 +68,10 @@ _Since 2022-07-10..._
   * [Component](Spring/Annotations/Component.md)
   * [Scheduled](Spring/Annotations/Scheduled.md)
 
+* #### Data
+
+  * [@NotNull vs @Column(nullable = false)](Spring/Data/NotNull-vs-Column(nullable%3Dfalse).md)
+
 * #### Libraries
 
   * [Lombok](Spring/Libraries/Lombok.md)
