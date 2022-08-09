@@ -37,18 +37,26 @@ _Since 2022-07-10..._
 
   * [파이어폭스 메모리 과다 점유](0_Troubleshooting/Firefox/firefox-uses-too-much-memory.md)
   
+---
+
 ### Algorithms
 
 * [최대공약수(GCD)](Algorithms/GCD.md)
+
+---
 
 ### Amazon Web Services
 
 * [AWS S3 정적 웹 사이트 호스팅](AWS/S3/hosting-a-static-website.md)
 
+---
+
 ### Docker
 
 * [.jar 파일로부터 Docker 이미지 빌드 및 실행하기](Docker/build-image-and-run-from-jar.md)
 * [자주 사용하는 도커 명령어](Docker/Commands.md)
+
+---
 
 ### Java
 
@@ -56,10 +64,14 @@ _Since 2022-07-10..._
 * [자바 가상 머신(Java Virtual Machine)](Java/JVM.md)
 * [객체지향적 프로그래밍(OOP)](Java/OOP.md)
 
+---
+
 ### Markdown
 
 * [README.md 작성하기](README.md)
 * [Markdown 문법 정리](Markdown/BasicMarkdown.md)
+
+---
 
 ### Spring
 
@@ -73,26 +85,35 @@ _Since 2022-07-10..._
   * [@NotNull vs @Column(nullable = false)](Spring/Data/NotNull-vs-Column(nullable%3Dfalse).md)
 
 * #### Libraries
-
-  * [Lombok](Spring/Libraries/Lombok.md)
-
+  
 * ##### Jackson
   
   * [Jackson](Spring/Libraries/Jackson/Jackson.md)
   * [불변객체에 json파일 매핑하기](Spring/Libraries/Jackson/parse-json-to-immutable.md)
 
+* ##### Lombok
+
+  * [Lombok](Spring/Libraries/Lombok/Lombok.md)
+  * [@Builder](Spring/Libraries/Lombok/Builder.md)
+
 * [MVC 패턴](Spring/MVCPattern.md)
 * [Redirect](Spring/Redirect.md)
 * [Converter](Spring/Converter.md)
+
+---
 
 ### Ubuntu
 
 * [자주 쓰는 우분투 명령어 모음](Ubuntu/BasicUbuntuCommands.md)
 
+---
+
 ### Web
 
 * [JWT 로그인](Web/JWT.md)
 * [API](Web/API.md)
+
+---
 
 ### WIL (공부일지)
 
