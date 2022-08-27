@@ -83,6 +83,7 @@ _Since 2022-07-10..._
 * #### Data
 
   * [@NotNull vs @Column(nullable = false)](Spring/Data/NotNull-vs-Column(nullable%3Dfalse).md)
+  * [Transactional](Spring/Data/Transactional.md)
 
 * #### Libraries
   
@@ -99,6 +100,7 @@ _Since 2022-07-10..._
 * [MVC 패턴](Spring/MVCPattern.md)
 * [Redirect](Spring/Redirect.md)
 * [Converter](Spring/Converter.md)
+* [ApplicationProperties](Spring/ApplicationProperties.md)
 
 ---
 
@@ -123,3 +125,4 @@ _Since 2022-07-10..._
 * [4주차 - 스프링 팀 프로젝트](WIL/220807_스프링-시큐리티.md)
 * [5주차 - 미니 프로젝트](WIL/220814_미니-프로젝트.md)
 * [6주차 - 미니 프로젝트와 클론코딩](WIl/220821_미니-프로젝트와-클론코딩.md)
+* [7주차 - 클론코딩 프로젝트 마무리](WIl/220828_클론코딩-프로젝트-마무리.md)
