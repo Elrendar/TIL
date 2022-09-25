@@ -128,5 +128,5 @@ _Since 2022-07-10..._
 * [7주차 - 클론코딩 프로젝트 마무리](WIl/220828_%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC.md)
 * [8주차 - 실전 프로젝트 Week1](WIL/220904_%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Week1.md)
 * [9주차 - 실전 프로젝트 Week2](WIL/220911_%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Week2.md)
-* [10주자 - 실전 프로젝트 Week3](WIL/220918_%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Week3.md)
-* [11주자 - 실전 프로젝트 Week4](WIL/220925_%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Week4.md)
+* [10주차 - 실전 프로젝트 Week3](WIL/220918_%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Week3.md)
+* [11주차 - 실전 프로젝트 Week4](WIL/220925_%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Week4.md)
